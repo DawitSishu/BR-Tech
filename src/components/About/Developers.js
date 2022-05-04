@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import dave from "./dev-team/dave.jpg";
 import zola from "./dev-team/zola.jpg";
-import giant from "./dev-team/Bereketab.jpg";
+import giant from "./dev-team/bereketab.jpg";
 
 const Developers = () => {
     return (
