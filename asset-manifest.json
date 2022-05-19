@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BR-Tech/static/css/main.c25f91de.css",
-    "main.js": "/BR-Tech/static/js/main.fbe265a7.js",
+    "main.js": "/BR-Tech/static/js/main.f3c94246.js",
     "static/js/415.fc063c41.chunk.js": "/BR-Tech/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/BR-Tech/static/js/787.f6e65957.chunk.js",
     "static/media/zola.jpg": "/BR-Tech/static/media/zola.296c488c0cec5a05a02d.jpg",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/BR-Tech/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/BR-Tech/index.html",
     "main.c25f91de.css.map": "/BR-Tech/static/css/main.c25f91de.css.map",
-    "main.fbe265a7.js.map": "/BR-Tech/static/js/main.fbe265a7.js.map",
+    "main.f3c94246.js.map": "/BR-Tech/static/js/main.f3c94246.js.map",
     "415.fc063c41.chunk.js.map": "/BR-Tech/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/BR-Tech/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c25f91de.css",
-    "static/js/main.fbe265a7.js"
+    "static/js/main.f3c94246.js"
   ]
 }
