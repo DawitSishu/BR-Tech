@@ -13,7 +13,7 @@ function Projects() {
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects we've worked on recently.
-          add rows below.
+          currenty not available but stay tuned!!
         </p>
         
       </Container>
