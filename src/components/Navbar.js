@@ -41,6 +41,7 @@ function NavBar() {
           to="/"
           onClick={() => updateExpanded(false)}
           className="d-flex">
+
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
