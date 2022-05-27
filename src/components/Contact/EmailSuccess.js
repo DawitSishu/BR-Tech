@@ -9,7 +9,7 @@ const EmailSuccess = () =>{
           <Alert variant="success" onClose={() => setShow(false)} dismissible>
             <Alert.Heading>Fantastic!</Alert.Heading>
             <p>
-              Your email has been sent successfully, wee'll get back to you 
+              Your email has been sent successfully, we'll get back to you 
               as soon as possible.Stay tuned for our response.
               Thank you!!
             </p>
